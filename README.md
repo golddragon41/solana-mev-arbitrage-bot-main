@@ -75,12 +75,3 @@ The bot continuously monitors price feeds across different exchanges to identify
 
 Smart contracts manage the flash loan execution, ensuring that all transactions are completed successfully within a single block.
 
-#### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
-
-<p> 
-    <a href="https://x.com/0xmooncity" target="_blank"><img alt="Twitter"
-        src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-    <a href="https://t.me/mooncity0x" target="_blank"><img alt="Telegram"
-        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
-
